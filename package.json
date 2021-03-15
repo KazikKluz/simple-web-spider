@@ -1,0 +1,24 @@
+{
+  "name": "simple-web-spider",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KazikKluz/simple-web-spider.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KazikKluz/simple-web-spider/issues"
+  },
+  "homepage": "https://github.com/KazikKluz/simple-web-spider#readme",
+  "dependencies": {
+    "mkdirp": "^1.0.4",
+    "slug": "^4.0.3",
+    "superagent": "^6.1.0"
+  }
+}
