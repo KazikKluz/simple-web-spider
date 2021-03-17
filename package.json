@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
+  "type": "module",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -17,7 +18,7 @@
   },
   "homepage": "https://github.com/KazikKluz/simple-web-spider#readme",
   "dependencies": {
-    "mkdirp": "^1.0.4",
+    "mkdirp": "0.5.5",
     "slug": "^4.0.3",
     "superagent": "^6.1.0"
   }
